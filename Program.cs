@@ -6,18 +6,18 @@ public class enemyAI//Criando a classe enimigos AI                              
     float health;//Valor booleano
     string enemyName;//string                                                                   //VARIAVEIS
 
-    WeaponArmy weapon;
+    WeaponArmy weapon;//classe referenciada e atribuida como weapon
 
     int[] intarray = new int [] {1,2,3,4,5};//criando e colocando valores em um Array
 
     List<int> intList = new List<int>() {1,2,3,4,5};//criando e colocando valores em uma Lista
 
 
-    void atack()
+    void atack()//criando método
     {
         if(speed >= 0)
         {
-            weapon.Shoot();
+            weapon.Shoot();//referenciada e usando o metodo shoot
         }
     }
     void Movement () {//criando um método                                                        //METODOS
@@ -56,12 +56,12 @@ public class enemyAI//Criando a classe enimigos AI                              
     }
 }
 
-public class WeaponArmy 
+public class WeaponArmy //outra classe e diferente da primeira
 {
-    float damage;
+    float damage;                                                                               //VARIAVEIS
     float fireRate;
 
-    public void Shoot ()
+    public void Shoot ()//PUBLIC pode ser usado para referenciar o metodo dentro de outra classe   //METODOS
     {
 
     }
