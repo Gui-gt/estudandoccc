@@ -1,0 +1,15 @@
+C:\Users\30755\OneDrive\Área de Trabalho\estudando csharp\bin\Debug\net7.0\estudando csharp.exe
+C:\Users\30755\OneDrive\Área de Trabalho\estudando csharp\bin\Debug\net7.0\estudando csharp.deps.json
+C:\Users\30755\OneDrive\Área de Trabalho\estudando csharp\bin\Debug\net7.0\estudando csharp.runtimeconfig.json
+C:\Users\30755\OneDrive\Área de Trabalho\estudando csharp\bin\Debug\net7.0\estudando csharp.dll
+C:\Users\30755\OneDrive\Área de Trabalho\estudando csharp\bin\Debug\net7.0\estudando csharp.pdb
+C:\Users\30755\OneDrive\Área de Trabalho\estudando csharp\obj\Debug\net7.0\estudando csharp.csproj.AssemblyReference.cache
+C:\Users\30755\OneDrive\Área de Trabalho\estudando csharp\obj\Debug\net7.0\estudando csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\30755\OneDrive\Área de Trabalho\estudando csharp\obj\Debug\net7.0\estudando csharp.AssemblyInfoInputs.cache
+C:\Users\30755\OneDrive\Área de Trabalho\estudando csharp\obj\Debug\net7.0\estudando csharp.AssemblyInfo.cs
+C:\Users\30755\OneDrive\Área de Trabalho\estudando csharp\obj\Debug\net7.0\estudando csharp.csproj.CoreCompileInputs.cache
+C:\Users\30755\OneDrive\Área de Trabalho\estudando csharp\obj\Debug\net7.0\estudando csharp.dll
+C:\Users\30755\OneDrive\Área de Trabalho\estudando csharp\obj\Debug\net7.0\refint\estudando csharp.dll
+C:\Users\30755\OneDrive\Área de Trabalho\estudando csharp\obj\Debug\net7.0\estudando csharp.pdb
+C:\Users\30755\OneDrive\Área de Trabalho\estudando csharp\obj\Debug\net7.0\estudando csharp.genruntimeconfig.cache
+C:\Users\30755\OneDrive\Área de Trabalho\estudando csharp\obj\Debug\net7.0\ref\estudando csharp.dll
