@@ -1,10 +1,12 @@
 ﻿using System;// Importando biblioteca para ter configurações padrões de código.
 
-public class enemyAI//Criando a classe enimigos AI
+public class enemyAI//Criando a classe enimigos AI                                              /CLASSE
 {
     int speed;//valor inteiro chamado speed
     float health;//Valor booleano
     string enemyName;//string                                                                   //VARIAVEIS
+
+    WeaponArmy weapon;
 
     int[] intarray = new int [] {1,2,3,4,5};//criando e colocando valores em um Array
 
@@ -15,10 +17,10 @@ public class enemyAI//Criando a classe enimigos AI
     {
         if(speed >= 0)
         {
-
+            weapon.Shoot();
         }
     }
-    void Movement () {//criando um método
+    void Movement () {//criando um método                                                        //METODOS
 
             foreach (int intNumbers in intarray)//usando pesquisa foreach usando Array
             {
@@ -52,4 +54,16 @@ public class enemyAI//Criando a classe enimigos AI
 
         }
     }
+}
+
+public class WeaponArmy 
+{
+    float damage;
+    float fireRate;
+
+    public void Shoot ()
+    {
+
+    }
+
 }
