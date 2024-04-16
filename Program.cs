@@ -61,7 +61,7 @@ public class WeaponArmy
     float damage;
     float fireRate;
 
-    void Shoot ()
+    public void Shoot ()
     {
 
     }
