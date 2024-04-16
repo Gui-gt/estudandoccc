@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\30755\\OneDrive\\Área de Trabalho\\estudando csharp\\estudando csharp.csproj",
+      "projectUniqueName": "C:\\Users\\30755\\OneDrive\\Área de Trabalho\\estudandoccc\\estudando csharp.csproj",
       "projectName": "estudando csharp",
-      "projectPath": "C:\\Users\\30755\\OneDrive\\Área de Trabalho\\estudando csharp\\estudando csharp.csproj",
+      "projectPath": "C:\\Users\\30755\\OneDrive\\Área de Trabalho\\estudandoccc\\estudando csharp.csproj",
       "packagesPath": "C:\\Users\\30755\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\30755\\OneDrive\\Área de Trabalho\\estudando csharp\\obj\\",
+      "outputPath": "C:\\Users\\30755\\OneDrive\\Área de Trabalho\\estudandoccc\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\30755\\AppData\\Roaming\\NuGet\\NuGet.Config"
